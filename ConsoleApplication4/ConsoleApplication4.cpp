@@ -9,6 +9,8 @@ int _tmain(int argc, _TCHAR* argv[])
     /* Print Hello World */
     printf_s("Hello World!\n");
 
+    /* Second Comment */
+
 	return 0;
 }
 
