@@ -6,7 +6,9 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+    /* Print Hello World */
     printf_s("Hello World!\n");
+
 	return 0;
 }
 
