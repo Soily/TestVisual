@@ -10,7 +10,7 @@ int _tmain(int argc, _TCHAR* argv[])
     printf_s("Hello World!\n");
 
     /* Second Comment */
-    printf_s("Auf dem Ast. \n")
+    printf_s("Auf dem Ast. \n");
 
 	return 0;
 }
